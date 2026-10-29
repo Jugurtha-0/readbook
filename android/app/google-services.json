@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165273125220",
+    "project_id": "bookio-36a83",
+    "storage_bucket": "bookio-36a83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165273125220:android:2e2a43b8fff38f52f8fa71",
+        "android_client_info": {
+          "package_name": "com.example.bookio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ3y7jY4k07Q-p1BFkAlIMD-p6w-uGbLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
